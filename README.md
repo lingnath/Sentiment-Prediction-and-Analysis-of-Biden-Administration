@@ -6,3 +6,5 @@ First, the data was collected from Twitter API using an EC2 and kinesis firehose
 Then sentiments were generated based on the collected tweet data using PySpark. <br>
 Next, the data was further cleaned using SQL Athena. <br>
 Finally, a dashboard was developed to support the sentiments analyses.
+
+Each folder represents each major step in the project pipeline.
